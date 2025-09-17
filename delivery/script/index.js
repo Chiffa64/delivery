@@ -135,7 +135,7 @@ const restFunc = () => {
 }
 
 
-/*const goodsFunc = () => {
+const goodsFunc = () => {
     const container = document.querySelector('#goods-container')
 
     const goodsArray = [
@@ -226,8 +226,8 @@ const restFunc = () => {
     }
 
 
-}*/
+}
 
 modalFunc()
 restFunc()
-//goodsFunc()
+goodsFunc()
